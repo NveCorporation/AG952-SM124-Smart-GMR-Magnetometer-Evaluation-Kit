@@ -1,5 +1,5 @@
 User Interface Software for the AG952 Evaluation Kit (SM124 Smart GMR Magnetometer Sensor)
-Requires Windows 7 or later
+Requires Windows 7 or later.
 
 Installation Instructions:
   1. Download the software installation package. 
@@ -8,5 +8,6 @@ Installation Instructions:
   4. Disconnect any AG952 boards connected to the PC.
   5. Locate the USB driver ("NVESmartSensor.inf") in the "drivers" folder of the installation package.
   6. Right click on "NVESmartSensor.inf" and click "Install."
+  7. Re-start the computer to complete the nstallation.
 
 Questions? We're here to help. E-mail us at sensor-apps[at]nve.com 

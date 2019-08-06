@@ -1,4 +1,4 @@
-Revision A User Interface Software for the AG952 Evaluation Kit (SM124 Smart GMR Magnetometer Sensor)
+Revision A User Interface Software for the AG952 Evaluation Kit (SM124 Smart GMR Magnetometer Sensor).
 For SM124 Lot Numbers older than 1932xx (shipped from the manufacturer prior to August 2019). 
 Software requires Windows 7 or later.
 
